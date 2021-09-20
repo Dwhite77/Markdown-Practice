@@ -1,2 +1,2 @@
 # javaprac
-s
+hello
